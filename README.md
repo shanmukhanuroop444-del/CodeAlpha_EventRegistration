@@ -13,7 +13,7 @@ CodeAlpha Backend Development Internship, Task 2.
 
 ## Setup
 ```bash
-git clone https://github.com/<your-username>/CodeAlpha_EventRegistration.git
+git clone https://github.com/shanmukhanuroop444-del/CodeAlpha_EventRegistration.git
 cd CodeAlpha_EventRegistration
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 pip install -r requirements.txt
